@@ -256,6 +256,21 @@ body .cover{
 
 /* end: jumbotron */
 
+/* begin: contact me */
+
+.social {
+  
+  padding-right: 0;
+  padding-left: 50px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #491b47;
+
+  
+}
+
+/* end: contact me */
+
 
 /* begin: button */
 
